@@ -10,6 +10,12 @@ The To-Do App is a simple web-based application that allows users to manage thei
 * Built with vanilla JavaScript (no external libraries required).
 
 ## Technologies Used
-HTML: Structure of the application.
-CSS: Styling for the user interface.
-JavaScript: Functionality for adding and deleting tasks.
+* HTML: Structure of the application.
+* CSS: Styling for the user interface.
+* JavaScript: Functionality for adding and deleting tasks.
+
+## Usage
+* Open the app in your browser.
+* To add a task, type the task name into the input field and click the "Add Task" button.
+* To delete a task, click the "Delete" button next to the task you want to remove.
+
