@@ -1,5 +1,4 @@
 ## TO_DO_LIST
-
 ## Description
 The To-Do App is a simple web-based application that allows users to manage their tasks efficiently. Users can add new tasks to their to-do list and delete tasks once they are completed. The app provides a clean and intuitive user interface, making it easy for users to keep track of their tasks. This project is built using HTML, CSS, and JavaScript.
 
